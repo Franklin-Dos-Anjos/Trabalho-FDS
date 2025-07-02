@@ -1,0 +1,37 @@
+body{ background-color: rgb(233, 213, 190);
+}
+.titulo {color: rgb(158, 28, 46);
+text-align: center;
+}
+.paragrafo{font-size:x-large;
+text-align:justify;
+}
+
+li {
+    margin-bottom: 35px;
+}
+.l1 {
+    margin-top: 10px;
+}
+.cinema{
+    border-radius: 12%;
+    width: 300px;
+    height: 200px;
+}
+.tabela{
+    color: aliceblue;
+    background-color: rgb(69, 68, 70);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    border-radius: 2%;
+}
+.titulotabela{
+    color: black;
+}
+img{
+    border-radius: 50%;
+}
+a:hover{
+        color: crimson;
+    }
